@@ -1,13 +1,12 @@
 @import url('https://fonts.googleapis.com/css?family=Coiny');
 
-
 body {
     background:url(https://www.thelocal.fr/userdata/images/article/4918357d3e7f839ff0d19115b0cb3ead8c8b93075a53ebf5fe8b90b39bf6bdfd.jpg)
     no-repeat center fixed;
     -webkit-background-size:cover;     
 
     font-family: 'Open Sans', sans-serif;
-    
+
 }
 
 .Titre1 {
@@ -23,3 +22,4 @@ font-family: 'Coiny', cursive;
 .KING {
     color: white
 }
+
